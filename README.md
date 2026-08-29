@@ -8,6 +8,8 @@ The work is organized in three passes:
 2. **Source-by-source summaries.** Expository notes written from the sources, kept beside the relevant source record rather than pretending to be part of the original work.
 3. **Synthesis.** Top-level notes that are written only after the source-level summaries exist, so the synthesis can be traced back to the literature.
 
+Pass 1 work is cataloged in [`sources/`](sources/). The first set contains the core books by William Fulton; William Fulton and Joe Harris; Bruce E. Sagan; Gordon D. James and Adalbert Kerber; plus shorter expositions by Yufei Zhao, Jeremy Booher, Charlotte Chan, and Daphne Kao.
+
 ## Redistribution rule
 
 A file being easy to find on the web does **not** by itself mean it can be republished here. This repository should mirror a source only when an explicit license, public-domain status, or other clear permission allows redistribution. Otherwise it should link to an author, publisher, DOI, institutional repository, or other legitimate host.
