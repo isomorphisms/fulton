@@ -103,5 +103,6 @@ The bibliography location is recorded only so it can be harvested in a later pas
 - Springer second-edition record and chapter ranges: <https://link.springer.com/book/10.1007/978-1-4757-6804-6>
 - Bruce Sagan's second-edition preface: <https://users.math.msu.edu/users/bsagan/Books/Sym/sympre2.html>
 - Google Books preview/contents: <https://books.google.com/books?id=Y6vTBwAAQBAJ>
+- Section titles and start-page cross-check for ISBN 978-0-387-95067-9: <https://cincinnatistate.ecampus.com/symmetric-group-2nd-sagan-bruce-e/bk/9780387950679>
 
-The full section-start inventory was cross-checked against a bookseller/library catalog entry for ISBN 978-0-387-95067-9 rather than inferred from later citations.
+The final link is a secondary catalog cross-check only; the author and Springer records above remain the authoritative publication sources.
